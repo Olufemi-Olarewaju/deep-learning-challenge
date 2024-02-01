@@ -55,6 +55,14 @@ emoved from the input data because they are neither targets nor features?
 
     * 20 more neurons were added to the first layer, 30 more neurons were added to the second layer, a third layer with 40 neurons, and new addition of a fourth layer with 40 neurons as seen in the image above.
 
-3. Summary: Summarize the overall results of the deep learning model. 
+3. Summary: Summarize the overall results of the deep learning model.
+
+    ![Model Accuracy](Images/Model_Accuracy.PNG)
+
+    ![OptimizedModel_3 Accuracy](Images/OptimizedModel_1_Accuracy.PNG)
+
+    ![OptimizedModel_3 Accuracy](Images/OptimizedModel_2_Accuracy.PNG)
+
+    ![OptimizedModel_3 Accuracy](Images/OptimizedModel_3_Accuracy.PNG)
 
 4. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
