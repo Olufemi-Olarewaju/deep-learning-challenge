@@ -33,10 +33,19 @@ emoved from the input data because they are neither targets nor features?
     
     ![Model Hyperparameters](Images/Model_HyperParameters.PNG)
 
-    * From the image above, the model has 80 neurons for the first layer, 30 neurons for the second layer, 2 layers, relu activation fuction for the hidden layers and sigmoid function for the output layer.
+    * From the image above, the model has 2 layers, 80 neurons for the first layer, 30 neurons for the second layer, relu activation fuction for the hidden layers and sigmoid function for the output layer. These hyperparameters were chosen for to get maximum model perfomance.
 
 * Were you able to achieve the target model performance?
+    
+    ![Model Accuracy](Images/Model_Accuracy.PNG)
+
+    * No the model did not achieve target performance of 75% as seen in the image above.
+
 * What steps did you take in your attempts to increase model performance?
+
+    ![Model Accuracy](Images/OptimizedModel_1_HyperParameters.PNG.PNG)
+    ![Model Accuracy](Images/OptimizedModel_2_HyperParameters.PNG.PNG)
+    ![Model Accuracy](Images/OptimizedModel_3_HyperParameters.PNG.PNG)
 
 3. Summary: Summarize the overall results of the deep learning model. 
 
