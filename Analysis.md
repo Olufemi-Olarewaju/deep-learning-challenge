@@ -90,6 +90,8 @@ emoved from the input data because they are neither targets nor features?
     
     ![Model Hyperparameters](Images/Model_HyperParameters.PNG)
 
+    * From the image above, the model has 80 neurons for the first layer, 30 neurons for the second layer, 2 layers, relu activation fuction for the hidden layers and sigmoid function for the output layer.
+
 * Were you able to achieve the target model performance?
 * What steps did you take in your attempts to increase model performance?
 
