@@ -21,12 +21,12 @@
 
 ### Data Preprocessing
 * What variable(s) are the target(s) for your model?
-    The target variable used is the "IS_SUCCESSFUL" feature.
+    * The target variable used is the "IS_SUCCESSFUL" feature.
 * What variable(s) are the features for your model?
-    The input variables are all features except "EIN","NAME". 
+    * The input variables are all features except "EIN","NAME". 
 * What variable(s) should be r
 emoved from the input data because they are neither targets nor features?
-    "EIN" and "NAME".
+    * "EIN" and "NAME".
 
 #### Compiling, Training, and Evaluating the Model
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
