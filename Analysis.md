@@ -43,11 +43,11 @@ emoved from the input data because they are neither targets nor features?
 
 * What steps did you take in your attempts to increase model performance?
 
-    ![OptimizedModel_1 Accuracy](Images/OptimizedModel_1_HyperParameters.PNG.PNG)
+    ![OptimizedModel_1 Accuracy](Images/OptimizedModel_1_HyperParameters.PNG)
 
-    ![OptimizedModel_2 Accuracy](Images/OptimizedModel_2_HyperParameters.PNG.PNG)
+    ![OptimizedModel_2 Accuracy](Images/OptimizedModel_2_HyperParameters.PNG)
 
-    ![OptimizedModel_3 Accuracy](Images/OptimizedModel_3_HyperParameters.PNG.PNG)
+    ![OptimizedModel_3 Accuracy](Images/OptimizedModel_3_HyperParameters.PNG)
 
 3. Summary: Summarize the overall results of the deep learning model. 
 
