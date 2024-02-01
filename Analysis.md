@@ -55,22 +55,22 @@ emoved from the input data because they are neither targets nor features?
 
     * 20 more neurons were added to the first layer, 30 more neurons were added to the second layer, a third layer with 40 neurons, and new addition of a fourth layer with 40 neurons as seen in the image above.
 
-## Summary
-    
-![Model Accuracy](Images/Model_Accuracy.PNG)
+
+
+    ![Model Accuracy](Images/Model_Accuracy.PNG)
 
     * The accuracy model is 72.2% and the loss is 57.7% as seen above.
 
-![OptimizedModel_3 Accuracy](Images/OptimizedModel_1_Accuracy.PNG)
+    ![OptimizedModel_3 Accuracy](Images/OptimizedModel_1_Accuracy.PNG)
 
     * The accuracy first optimized model is 72.4% and the loss is 64.5% as seen above.
 
-![OptimizedModel_3 Accuracy](Images/OptimizedModel_2_Accuracy.PNG)
+    ![OptimizedModel_3 Accuracy](Images/OptimizedModel_2_Accuracy.PNG)
 
     * The accuracy second optimized model is 72.3% and the loss is 61.1% as seen above.
 
-![OptimizedModel_3 Accuracy](Images/OptimizedModel_3_Accuracy.PNG)
+    ![OptimizedModel_3 Accuracy](Images/OptimizedModel_3_Accuracy.PNG)
 
     * The accuracy third optimized model is 72.3% and the loss is 61.1% as seen above. This is the exact same result as the second optimized model.
 
-* The overall results show that the optimized models which had more neurons added and more layers did not improve the models performance. Therefore, it is recommended that a model with fewer features (columns) could achieve a higher than 75% accuracy. This will reduce the complexity that large feautures possess when creating a model. 
+    * The overall results show that the optimized models which had more neurons added and more layers did not improve the models performance. Therefore, it is recommended that a model with fewer features (columns) could achieve a higher than 75% accuracy. This will reduce the complexity that large feautures possess when creating a model. 
