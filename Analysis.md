@@ -74,4 +74,4 @@ emoved from the input data because they are neither targets nor features?
 
 * The accuracy of the third optimized model is 72.3% and the loss is 61.1% as seen above. This is the exact same result as the second optimized model.
 
-* The overall results show that the optimized models, which had more neurons and more layers added, did not improve the models performance. Therefore, it is recommended that a model with fewer features (columns) could achieve a higher than 75% accuracy. Having fewer features will reduce the complexity that large feautures possess when creating a model. 
+* The overall results show that the optimized models, which had more neurons and more layers added, did not improve the models performance. Therefore, it is recommended that a model with fewer features (columns) could achieve a higher than 75% accuracy. Having fewer features will reduce the complexity that large number features possess when creating a model. 
