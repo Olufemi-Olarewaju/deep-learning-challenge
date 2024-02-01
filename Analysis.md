@@ -43,11 +43,17 @@ emoved from the input data because they are neither targets nor features?
 
 * What steps did you take in your attempts to increase model performance?
 
-    ![OptimizedModel_1 Accuracy](Images/OptimizedModel_1_HyperParameters.PNG)
+    ![OptimizedModel_1 Hyperparameters](Images/OptimizedModel_1_HyperParameters.PNG)
 
-    ![OptimizedModel_2 Accuracy](Images/OptimizedModel_2_HyperParameters.PNG)
+    * 20 more neurons were added to the first layer and 30 more neurons were added to the second layer as seen in the image above.
 
-    ![OptimizedModel_3 Accuracy](Images/OptimizedModel_3_HyperParameters.PNG)
+    ![OptimizedModel_2 Hyperparameters](Images/OptimizedModel_2_HyperParameters.PNG)
+
+    * 20 more neurons were added to the first layer, 30 more neurons were added to the second layer and new addition of a third layer with 40 neurons as seen in the image above.
+
+    ![OptimizedModel_3 Hyperparameters](Images/OptimizedModel_3_HyperParameters.PNG)
+
+    * 20 more neurons were added to the first layer, 30 more neurons were added to the second layer, a third layer with 40 neurons, and new addition of a fourth layer with 40 neurons as seen in the image above.
 
 3. Summary: Summarize the overall results of the deep learning model. 
 
