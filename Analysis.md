@@ -33,7 +33,7 @@ emoved from the input data because they are neither targets nor features?
     
     ![Model Hyperparameters](Images/Model_HyperParameters.PNG)
 
-    * From the image above, the model has 2 layers, 80 neurons for the first layer, 30 neurons for the second layer, relu activation fuction for the hidden layers and sigmoid function for the output layer. These hyperparameters were chosen for to get maximum model perfomance.
+    * From the image above, the model has 2 layers, 80 neurons for the first layer, 30 neurons for the second layer, relu activation fuction for the hidden layers and sigmoid function for the output layer. These hyperparameters were chosen to get maximum model perfomance.
 
 * Were you able to achieve the target model performance?
     
